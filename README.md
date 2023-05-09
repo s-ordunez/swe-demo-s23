@@ -10,9 +10,9 @@ This is an **unordered** list
 
 ### Lev 3 heading
 Here is an *ordered* list
-1.Item A
-2.Item B
-3.Item C
+1. Item A
+2. Item B
+3. Item C
 
 ### another Lev 3 heading
 Yey, some text.
